@@ -1,0 +1,6 @@
+{
+  "name": "SHAIKCART",
+  "description": "SHAIKCART — Modern Indian online shopping destination for curated fashion, home & living, beauty, electronics, sports, kids, accessories, and gifts.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
